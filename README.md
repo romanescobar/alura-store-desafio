@@ -61,25 +61,6 @@ Mientras que otras tiendas pueden tener áreas de mejora, la **tienda 4** muestr
 * **Matplotlib:** Para creación de gráficos estáticos.
 * **Seaborn:** Para visualizaciones estadísticas atractivas.
 
-## ⚙️ Cómo Ejecutar el Código
-
-1.  **Clona el repositorio:**
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
-2.  **Navega al directorio del proyecto:**
-    ```bash
-    cd <NOMBRE_DEL_REPOSITORIO>
-    ```
-3.  **Instala las dependencias:**
-    Asegúrate de tener Python instalado. Luego, instala las librerías necesarias:
-    ```bash
-    pip install pandas matplotlib seaborn
-    ```
-4.  **Abre el notebook en Google Colab o Jupyter:**
-    Sube el archivo `.ipynb` (que contiene el código de análisis) a Google Colab o ábrelo con Jupyter Notebook.
-5.  **Ejecuta todas las celdas:**
-    Ejecuta las celdas en orden. Asegúrate de que las URLs de los archivos CSV sean correctas y estén accesibles.
 
 ## 📧 Contacto
 
